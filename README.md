@@ -5,11 +5,11 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/wuya51/swisstronik-erc721-mint-token.git
+git clone https://github.com/wzop/swiss-erc721.git
 ```
 
 ```
-cd swisstronik-erc721-mint-token
+cd 
 ```
 
 ### 2. Install Dependency
