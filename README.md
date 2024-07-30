@@ -1,15 +1,5 @@
 # Swisstronik Tesnet Techinal Task 3 (Mint a ERC-721 Token)
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x471232caf1c2cFE884c9Dd363Eb4a9bd9F4bf5D9
-```
-
 ## Steps
 
 ### 1. Clone Repository
@@ -98,7 +88,4 @@ npm run mint
 - Copy the address and paste the tx hash link into testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [wuya51](https://github.com/wuya51)
-twitter : @wuya518
-telegram : @crow51
+
